@@ -1,4 +1,4 @@
-# Insurance Cost Prediction Model
+# Insurance Medical Cost Prediction Using Regression Models
 
 This project is focused on predicting insurance costs for individuals using a machine learning model. The model uses personal information such as age, sex, BMI (Body Mass Index), number of children, smoking status, and region to predict how much insurance costs for an individual. The dataset used is called "insurance.csv," which contains real-world data on insurance costs.
 
